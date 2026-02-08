@@ -10,10 +10,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-02-07T07:32:15Z",
+            "last_commit": "2026-02-07T23:37:32Z",
             "owner": "tiangolo",
             "repo": "fastapi",
-            "stars": 94867
+            "stars": 94884
           }
         },
         {
@@ -31,7 +31,7 @@
             "last_commit": "2026-02-01T19:56:56Z",
             "owner": "encode",
             "repo": "starlette",
-            "stars": 11900
+            "stars": 11901
           }
         },
         {
@@ -41,10 +41,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-02-05T16:58:15Z",
+            "last_commit": "2026-02-07T20:26:55Z",
             "owner": "KeepSafe",
             "repo": "aiohttp",
-            "stars": 16251
+            "stars": 16254
           }
         },
         {
@@ -57,7 +57,7 @@
             "last_commit": "2026-01-07T11:11:51Z",
             "owner": "channelcat",
             "repo": "sanic",
-            "stars": 18636
+            "stars": 18637
           }
         },
         {
@@ -114,7 +114,7 @@
             "last_commit": "2026-02-02T19:48:34Z",
             "owner": "encode",
             "repo": "uvicorn",
-            "stars": 10371
+            "stars": 10373
           }
         }
       ],
@@ -198,7 +198,7 @@
             "last_commit": "2026-01-31T16:42:34Z",
             "owner": "aio-libs",
             "repo": "aiokafka",
-            "stars": 1361
+            "stars": 1362
           }
         }
       ],
@@ -292,10 +292,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-02-06T16:10:21Z",
+            "last_commit": "2026-02-07T11:18:32Z",
             "owner": "redis",
             "repo": "redis-py",
-            "stars": 13466
+            "stars": 13467
           }
         },
         {
@@ -370,7 +370,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-02-06T02:29:41Z",
+            "last_commit": "2026-02-07T23:01:12Z",
             "owner": "tortoise",
             "repo": "tortoise-orm",
             "stars": 5476
@@ -412,7 +412,7 @@
             "last_commit": "2026-02-06T22:19:10Z",
             "owner": "piccolo-orm",
             "repo": "piccolo",
-            "stars": 1855
+            "stars": 1854
           }
         },
         {
@@ -441,7 +441,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-01-03T20:02:21Z",
+            "last_commit": "2026-02-07T21:18:55Z",
             "owner": "ronf",
             "repo": "asyncssh",
             "stars": 1711
@@ -483,7 +483,7 @@
             "last_commit": "2026-02-01T16:43:53Z",
             "owner": "encode",
             "repo": "httpx",
-            "stars": 14976
+            "stars": 14973
           }
         }
       ],
@@ -528,7 +528,7 @@
             "last_commit": "2026-02-03T10:53:29Z",
             "owner": "pytest-dev",
             "repo": "pytest-asyncio",
-            "stars": 1612
+            "stars": 1613
           }
         },
         {
@@ -807,7 +807,7 @@
             "last_commit": "2026-02-01T01:14:41Z",
             "owner": "python-trio",
             "repo": "trio",
-            "stars": 7155
+            "stars": 7157
           }
         },
         {
@@ -828,10 +828,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-07T07:33:54.046Z",
+    "last_updated": "2026-02-08T04:37:18.168Z",
     "original_repository": "timofurrer/awesome-asyncio",
     "source_repository": "v1nvn/enhansome-asyncio",
-    "source_repository_description": "",
+    "source_repository_description": null,
     "title": "Awesome asyncio with stars"
   }
 }
